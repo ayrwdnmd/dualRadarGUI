@@ -1,0 +1,11 @@
+release/basic_circular.o
+release/canthread.o
+release/main.o
+release/mainwindow.o
+release/newwindow.o
+release/settingwindow.o
+release/qrc_pic.o
+release/moc_canthread.o
+release/moc_mainwindow.o
+release/moc_newwindow.o
+release/moc_settingwindow.o

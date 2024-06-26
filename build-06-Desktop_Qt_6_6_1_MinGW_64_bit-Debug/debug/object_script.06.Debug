@@ -1,0 +1,11 @@
+debug/basic_circular.o
+debug/canthread.o
+debug/main.o
+debug/mainwindow.o
+debug/newwindow.o
+debug/settingwindow.o
+debug/qrc_pic.o
+debug/moc_canthread.o
+debug/moc_mainwindow.o
+debug/moc_newwindow.o
+debug/moc_settingwindow.o
